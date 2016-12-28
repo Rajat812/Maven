@@ -3,7 +3,6 @@ import java.io.PrintStream;
 public class Hello {
 
     static final String HELLO = "Hello!";
-    public String a="abc";
     public static final int MAXIMUM_AMOUNT_OF_TIMES = 20;
     private short times = 1;
 
